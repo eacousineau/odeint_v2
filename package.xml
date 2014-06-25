@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<package>
+  <name>odeint_v2</name>
+  <version>2.4.0</version>
+  <description>The odeint_v2 package</description>
+  <maintainer email="karsten.ahnert@gmx.de">headmyshoulder</maintainer>
+  <license>Boost Software License</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+</package>
